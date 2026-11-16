@@ -40,7 +40,7 @@
     "babel-preset-env": "^1.5.2",
     "babel-preset-react": "^6.24.1",
     "babel-register": "^6.24.1",
-    "codecov": "^2.3.0",
+    "codecov": "^3.8.3",
     "nyc": "^11.1.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

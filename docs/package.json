@@ -17,6 +17,6 @@
     "repng": "^2.0.0-alpha.1",
     "rrx": "^1.0.0-2",
     "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack-dev-server": "^6.1.0"
   }
 }
